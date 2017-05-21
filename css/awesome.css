@@ -1,0 +1,80 @@
+/*!
+ * Custom CSS for my awesome website
+ */
+.my-awesome-modal {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    top: 0px;
+    left: 0px;
+    z-index: 100;
+    background-color: rgba(0, 0, 0, 0.50);
+    display:none;
+}
+tbody tr td {
+padding: 0px 30px 15px 0px!important;
+}
+.td-date {
+    width: 118px;
+}
+.page{
+	padding:30px 0px;
+	min-height:100vh;
+}
+
+#mainpage{
+	position: relative; 
+	background-image: url(../img/anemone.jpg);
+	height: 100vh;
+	width:100%;
+	top: 0;
+	left:0;
+	padding-left: 0;
+	padding-right: 0;
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-position: 50% 50%;
+}
+
+.img-wrapper{background-color:transparent;
+	left: 50%;
+	position: absolute;
+	margin-top:  50px;
+	width: 0px;
+	margin-bottom: 150px;
+}
+
+.inner-img-wrapper{
+	background-color:transparent;
+	left: -150px;
+	position: relative;
+	width: 300px;
+}
+
+.github-img{
+	background-color:transparent;
+	width: 100%;
+}
+
+.blue{
+	background-color:#e0f9ff;
+}
+
+.grey{
+	background-color:#e3e5e5;
+}
+
+.text-justify{
+	text-align: justify;
+}
+
+.warner{
+	color:#c92424; 
+}
+
+.language {
+	max-height: 100px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
