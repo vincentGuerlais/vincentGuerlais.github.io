@@ -24,7 +24,7 @@ padding: 0px 30px 15px 0px!important;
 
 #mainpage{
 	position: relative; 
-	background-image: url(../img/anemone.jpg);
+	background-image: url(../img/photoPeille.png);
 	height: 100vh;
 	width:100%;
 	top: 0;
@@ -57,7 +57,7 @@ padding: 0px 30px 15px 0px!important;
 }
 
 .blue{
-	background-color:#e0f9ff;
+	background-color:#b9897b33;
 }
 
 .grey{
@@ -81,4 +81,8 @@ padding: 0px 30px 15px 0px!important;
 
 .about_me {
 	font-size: 18px;
+}
+
+.btn-primary {
+	background-image: linear-gradient(#bf6d6d, #9b4444 50%, #8d3e3e);
 }
